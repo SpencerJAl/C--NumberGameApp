@@ -1,0 +1,11 @@
+D:\C# Tutorial\numberapp\numberapp\bin\Debug\netcoreapp2.1\numberapp.deps.json
+D:\C# Tutorial\numberapp\numberapp\bin\Debug\netcoreapp2.1\numberapp.runtimeconfig.json
+D:\C# Tutorial\numberapp\numberapp\bin\Debug\netcoreapp2.1\numberapp.runtimeconfig.dev.json
+D:\C# Tutorial\numberapp\numberapp\bin\Debug\netcoreapp2.1\numberapp.dll
+D:\C# Tutorial\numberapp\numberapp\bin\Debug\netcoreapp2.1\numberapp.pdb
+D:\C# Tutorial\numberapp\numberapp\obj\Debug\netcoreapp2.1\numberapp.csprojAssemblyReference.cache
+D:\C# Tutorial\numberapp\numberapp\obj\Debug\netcoreapp2.1\numberapp.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\numberapp\numberapp\obj\Debug\netcoreapp2.1\numberapp.AssemblyInfoInputs.cache
+D:\C# Tutorial\numberapp\numberapp\obj\Debug\netcoreapp2.1\numberapp.AssemblyInfo.cs
+D:\C# Tutorial\numberapp\numberapp\obj\Debug\netcoreapp2.1\numberapp.dll
+D:\C# Tutorial\numberapp\numberapp\obj\Debug\netcoreapp2.1\numberapp.pdb
